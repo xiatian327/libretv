@@ -110,6 +110,142 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    laosebizy: {
+    api: 'https://apilsbzy1.com/api.php/provide/vod',
+    name: '老司机',
+},
+115: {
+    api: 'https://155api.com/api.php/provide/vod',
+    name: '115',
+},
+senlin: {
+    api: 'https://slapibf.com/api.php/provide/vod',
+    name: '森林',
+},
+semao: {
+    api: 'https://caiji.semaozy.net/inc/api.php/provide/vod',
+    name: '色猫',
+},
+meishaonv: {
+    api: 'https://www.msnii.com/api/json.php',
+    name: '美少女',
+},
+yinshuiji: {
+    api: 'https://www.xrbsp.com/api/json.php',
+    name: '淫水机',
+},
+xiangnaier: {
+    api: 'https://www.gdlsp.com/api/json.php',
+    name: '香奶儿',
+},
+baipiao: {
+    api: 'https://www.kxgav.com/api/json.php',
+    name: '白嫖',
+},
+xiaoshimei: {
+    api: 'https://www.afasu.com/api/json.php',
+    name: '小湿妹',
+},
+huangav: {
+    api: 'https://www.pgxdy.com/api/json.php',
+    name: '黄AV',
+},
+shayu: {
+    api: 'https://shayuapi.com/api.php/provide/vod',
+    name: '鲨鱼',
+},
+ikun: {
+    api: 'https://thzy1.me/api.php/provide/vod',
+    name: '爱坤',
+},
+baiwan: {
+    api: 'https://api.bwzyz.com/api.php/provide/vod',
+    name: '百万',
+},
+naixiangxiang: {
+    api: 'https://naixxzy.com/api.php/provide/vod',
+    name: '奶香香',
+},
+jingpin: {
+    api: 'https://www.jingpinx.com/api.php/provide/vod',
+    name: '精品',
+},
+aosika: {
+    api: 'https://aosikazy.com/api.php/provide/vod',
+    name: '奥斯卡',
+},
+lajiao: {
+    api: 'http://apilj.com/api.php/provide/vod',
+    name: '辣椒',
+},
+yutu: {
+    api: 'https://apiyutu.com/api.php/provide/vod',
+    name: '玉兔',
+},
+didi: {
+    api: 'https://api.ddapi.cc/api.php/provide/vod',
+    name: '滴滴',
+},
+huanggua: {
+    api: 'https://www.avre06.com/api.php/Prodao/vod',
+    name: '黄瓜',
+},
+siwa: {
+    api: 'https://siwazyw.tv/api.php/provide/vod',
+    name: '丝袜',
+},
+danaizi: {
+    api: 'https://apidanaizi.com/api.php/provide/vod',
+    name: '大奶子',
+},
+jkun: {
+    api: 'https://jkunzyapi.com/api.php/provide/vod',
+    name: 'JKUN',
+},
+kuaibo: {
+    api: 'https://gayapi.com/api.php/provide/vod',
+    name: '快播',
+},
+dadi: {
+    api: 'https://dadiapi.com/api.php/provide/vod',
+    name: '大地',
+},
+ckzy: {
+    api: 'https://ckzy.me/api.php/provide/vod',
+    name: 'CK资源',
+},
+fanhao: {
+    api: 'http://fhapi9.com/api.php/provide/vod',
+    name: '番号资源',
+},
+laosebi: {
+    api: 'https://apilsbzy1.com/api.php/provide/vod',
+    name: '老色逼',
+},
+caoliu: {
+    api: 'https://www.caoliuzyw.com/api.php/provide/vod',
+    name: '草榴',
+},
+xibaowang: {
+    api: 'https://www.xxibaozyw.com/api.php/provide/vod',
+    name: '细胞网',
+},
+xiaoji: {
+    api: 'https://api.xiaojizy.live/provide/vod',
+    name: '小鸡',
+},
+hsckzy888: {
+    api: 'https://hsckzy888.com/api.php/provide/vod',
+    name: '黄色仓库',
+},
+soa: {
+    api: 'https://api.souavzy.vip/api.php/provide/vod',
+    name: '搜A',
+},
+lsb: {
+    api: 'https://apilsbzy1.com/api.php/provide/vod',
+    name: 'lsb资源',
+},
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
